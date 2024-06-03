@@ -10,4 +10,5 @@ It contains several functions like :
 3)Show all accounts<br>
 4)withdraw amount<br>
 5Close account<br>
-6)Quit
+6)Account history
+7)Quit
